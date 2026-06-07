@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 3\\ProyectoSDL2.csproj",
+      "projectUniqueName": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 4\\ProyectoSDL2.csproj",
       "projectName": "ProyectoSDL2",
-      "projectPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 3\\ProyectoSDL2.csproj",
+      "projectPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 4\\ProyectoSDL2.csproj",
       "packagesPath": "C:\\Users\\Alcides\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 3\\obj\\",
+      "outputPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

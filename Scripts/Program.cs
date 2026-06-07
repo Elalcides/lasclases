@@ -1,30 +1,34 @@
 ﻿using System.Diagnostics;
 
-namespace ProyectoSDL2.Engine
+namespace ProyectoSDL2.Engine.Scripts
 {
     class Program
     {
-        static int posX = 200;
         static Player player;
 
         static List<Enemy> enemyList = new List<Enemy>();
-        public static List<Bullet> bulletList = new List<Bullet>();
+        static List<Bullet> bulletList = new List<Bullet>();
+
+        public static float deltaTime;
+
+        public static float DeltaTime => deltaTime;
+
         static void Main(string[] args)
         {
+            Engine.Initialize();
+
             DateTime startTime = DateTime.Now;
             float currentTime;
-            float deltaTime;
             float lastFrameTime = 0;
             float timerLog = 0;
+
 
             player = new Player(200, 200);
 
             enemyList.Add(new Enemy(200, 200));
             enemyList.Add(new Enemy(200, 400));
             enemyList.Add(new Enemy(200, 600));
-            
 
-            Engine.Initialize();
 
             while (true)
             {
@@ -36,24 +40,22 @@ namespace ProyectoSDL2.Engine
                 Update();
                 Render();
             }
+
         }
 
         static void Update()
         {
             player.Update();
 
-            //player.SetDamage(10);
-
-            //Engine.Debug("Vida: " + player.Health);
-
-            //for (int i = 0; i < enemyList.Count; i++)
-            //{
-            //    enemyList[i].Update();
-            //}
+            player.SetDamage(10);
 
             foreach (Enemy enemy in enemyList)
             {
                 enemy.Update();
+            }
+            foreach (Bullet bullet in bulletList)
+            {
+                bullet.Update();
             }
         }
 
@@ -66,12 +68,20 @@ namespace ProyectoSDL2.Engine
             {
                 enemy.Render();
             }
+            foreach (Bullet bullet in bulletList)
+            {
+                bullet.Render();
+            }
 
-            //for (int i = 0; i < enemyList.Count; i++)
-            //{
-            //    enemyList[i].Render();
-            //}
             Engine.Show();
         }
+
+        public static void AddBullet(int posX, int posY)
+        {
+            bulletList.Add(new Bullet(posX, posY));
+        }
+
     }
+
 }
+
