@@ -2,52 +2,29 @@
 {
     public class Player
     {
-        private Transform transform;
-        private PlayerInput input;
-        private Animation playerAnim;
-        private int speed = 5;
-        private float health;
+        Transform transform;
+        PlayerInput playerInput;
+        Health health;
 
-        private List<Image> animationImages = new List<Image>();
+        public Transform Transform => transform;
+        public PlayerInput PlayerInput => playerInput;
+        public Health Health => health;
 
-        public float Health => health;
-
-        public void SetDamage(int damage)
+        public Player(int startPosX, int startPosY)
         {
-            
-            health -= damage;
-
-            if(health <= 0)
-            {
-                // murio
-            }
-        } 
-
-        public Player(int x, int y)
-        {
-            transform = new Transform(x, y);
-            input = new PlayerInput(transform,speed);
-
-            animationImages.Add(Engine.LoadImage("assets/Ship/Idle/0.png"));
-            animationImages.Add(Engine.LoadImage("assets/Ship/Idle/1.png"));
-            animationImages.Add(Engine.LoadImage("assets/Ship/Idle/2.png"));
-            animationImages.Add(Engine.LoadImage("assets/Ship/Idle/3.png"));
-
-
-            playerAnim = new Animation(animationImages,0.1f);
-            
+            transform = new Transform(startPosX, startPosY);
+            playerInput = new PlayerInput(transform);
+            health = new Health();
         }
 
         public void Update()
         {
-            input.Update();
-            playerAnim.Update();
+            playerInput.Update();
         }
 
         public void Render()
         {
-            Engine.Draw(playerAnim.currentFrame, transform.PosX, transform.PosY);
+            Engine.Draw("assets/ship.png",transform.PosX, transform.PosY);
         }
-
     }
 }

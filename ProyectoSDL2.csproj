@@ -13,13 +13,37 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Update="assets\arial.ttf">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
       <None Update="assets\bullet.png">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="assets\enemy.png">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
+      <None Update="assets\enemy\0.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="assets\enemy\1.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="assets\enemy\2.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="assets\enemy\3.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
       <None Update="assets\fondo.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="assets\MainMenu.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="assets\PantallaDerrota.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <None Update="assets\powerup.png">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="assets\ship.png">

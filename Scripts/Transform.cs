@@ -2,8 +2,7 @@
 {
     public class Transform
     {
-        int posX, posY; 
-
+        int posX, posY;
         public int PosX => posX;
         public int PosY => posY;
 
@@ -12,16 +11,10 @@
             posX = startPosX;
             posY = startPosY;
         }
-
         public void Translate(int movementX, int movementY)
         {
             posX += movementX;
             posY += movementY;
         }
-
-        //rotacion
-        //calcular distancia
-        //etc
-
     }
 }

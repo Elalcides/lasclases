@@ -1,54 +1,47 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+namespace ProyectoSDL2.Engine.Scripts
 {
     public class PlayerInput
     {
         Transform transform;
-        int speed;
-        float timer;
+        int speed = 5;
 
-        public PlayerInput(Transform playerTransform, int playerSpeed)
+        //algo para usar speed y transform
+
+        public PlayerInput(Transform playerTransform)
         {
             transform = playerTransform;
-            speed = playerSpeed;
         }
-
-
-
         public void Update()
         {
-            timer += Program.DeltaTime;
-            if (Engine.KeyPress(Engine.KEY_A))
+            if(Engine.KeyPress(Engine.KEY_A))
             {
                 transform.Translate(-1 * speed, 0);
             }
-
             if (Engine.KeyPress(Engine.KEY_D))
             {
                 transform.Translate(1 * speed, 0);
             }
-
             if (Engine.KeyPress(Engine.KEY_W))
             {
                 transform.Translate(0, -1 * speed);
             }
-
             if (Engine.KeyPress(Engine.KEY_S))
             {
                 transform.Translate(0, 1 * speed);
             }
-
-            if (Engine.KeyPress(Engine.KEY_ESP))
+            Engine.KeyPress(Engine.KEY_ESP);
             {
-                if (timer > 0.2f)
-                {
-                    Program.AddBullet(transform.PosX, transform.PosY);
-                    timer = 0;
-                }
-
-
-                //no dispares
-                
+            //    if (timerLog < 0.5f)
+            //    {
+                    GameManager.Instance.LevelControl.AddBullet(new Bullet(transform.PosX, transform.PosY));
+            //        timerLog = 0;
+            //    }
             }
+        }
+        public void UpdateSpeed(int newSpeed)
+        {
+            speed = newSpeed;
         }
     }
 }
