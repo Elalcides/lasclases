@@ -331,6 +331,18 @@ namespace ProyectoSDL2.Engine
                 SDL.SDL_RendererFlip.SDL_FLIP_NONE
             );
         }
+        
+        public static void MousePosition(out int mouseX, out int mouseY)
+        {
+            SDL.SDL_GetMouseState(out mouseX, out mouseY);
+        }
+        
+        public static double AngleToMouse(int originX, int originY)
+        {
+            SDL.SDL_GetMouseState(out int mouseX, out int mouseY);
+            double angle = Math.Atan2(mouseY - originY, mouseX - originX) * (180.0 / Math.PI) + 90;
+            return angle;
+        }
 
         public static void Debug(string text)
         {
