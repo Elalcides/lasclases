@@ -1,46 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\",
+  "WorkspaceRootPath": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\dynamicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\dynamicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\nondynamicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\nondynamicpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 8\\proyecto clase 8\\scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\users\\p764\\downloads\\proyecto clase 9\\proyecto clase 9\\proyecto clase 8\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,18 +61,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 341,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 824,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Program.cs",
               "RelativeDocumentMoniker": "Scripts\\Program.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Program.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Program.cs",
               "RelativeToolTip": "Scripts\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T16:40:12.804Z",
               "IsPinned": true,
@@ -68,123 +80,162 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPickup.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\IPickup.cs",
-              "RelativeDocumentMoniker": "Scripts\\IPickup.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\IPickup.cs",
-              "RelativeToolTip": "Scripts\\IPickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Transform.cs",
+              "RelativeDocumentMoniker": "Scripts\\Transform.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Transform.cs",
+              "RelativeToolTip": "Scripts\\Transform.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:37:10.478Z",
+              "WhenOpened": "2026-06-03T19:30:03.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PowerUp.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\PowerUp.cs",
-              "RelativeDocumentMoniker": "Scripts\\PowerUp.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\PowerUp.cs",
-              "RelativeToolTip": "Scripts\\PowerUp.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAABGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Types.cs",
+              "RelativeDocumentMoniker": "Scripts\\Types.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Types.cs",
+              "RelativeToolTip": "Scripts\\Types.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:10:19.884Z",
+              "WhenOpened": "2026-06-03T19:28:10.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericClass.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\GenericClass.cs",
+              "RelativeDocumentMoniker": "Scripts\\GenericClass.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\GenericClass.cs",
+              "RelativeToolTip": "Scripts\\GenericClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:11:20.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Player.cs",
               "RelativeToolTip": "Scripts\\Player.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwCAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:00:05.737Z",
+              "WhenOpened": "2026-06-03T19:31:46.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Scripts\\Enemy.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "DynamicPool.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\DynamicPool.cs",
+              "RelativeDocumentMoniker": "Scripts\\DynamicPool.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\DynamicPool.cs",
+              "RelativeToolTip": "Scripts\\DynamicPool.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T16:39:40.586Z",
+              "WhenOpened": "2026-06-03T17:51:32.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Weapon.cs",
-              "RelativeDocumentMoniker": "Scripts\\Weapon.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Weapon.cs",
-              "RelativeToolTip": "Scripts\\Weapon.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAABsAAAAAAAAAA==",
+              "Title": "NonDynamicPool.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\NonDynamicPool.cs",
+              "RelativeDocumentMoniker": "Scripts\\NonDynamicPool.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\NonDynamicPool.cs",
+              "RelativeToolTip": "Scripts\\NonDynamicPool.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T19:04:36.196Z",
+              "WhenOpened": "2026-06-03T17:10:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Scripts\\Bullet.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:38:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Scripts\\Weapon.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:28:09.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\LevelController.cs",
+              "RelativeDocumentMoniker": "Scripts\\LevelController.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\LevelController.cs",
+              "RelativeToolTip": "Scripts\\LevelController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:00:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\GameObject.cs",
               "RelativeDocumentMoniker": "Scripts\\GameObject.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\GameObject.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\GameObject.cs",
               "RelativeToolTip": "Scripts\\GameObject.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:03:32.093Z",
+              "WhenOpened": "2026-06-03T16:56:52.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Scripts\\Bullet.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Scripts\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\PlayerInput.cs",
+              "RelativeToolTip": "Scripts\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:09:57.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Transform.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Transform.cs",
-              "RelativeDocumentMoniker": "Scripts\\Transform.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Transform.cs",
-              "RelativeToolTip": "Scripts\\Transform.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wCEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:59:43.086Z",
+              "WhenOpened": "2026-06-03T16:56:41.824Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 341,
+          "DockedWidth": 13,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Health.cs",
-              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Health.cs",
+              "DocumentMoniker": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Health.cs",
               "RelativeDocumentMoniker": "Scripts\\Health.cs",
-              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 8\\Proyecto Clase 8\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\p764\\Downloads\\Proyecto Clase 9\\Proyecto Clase 9\\Proyecto Clase 8\\Scripts\\Health.cs",
               "RelativeToolTip": "Scripts\\Health.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T19:05:42.176Z",
               "EditorCaption": ""

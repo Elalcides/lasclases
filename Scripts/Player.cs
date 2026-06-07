@@ -10,13 +10,21 @@
         public PlayerInput Input => input;
         public Health Health => health;
 
+        private Weapon weapon;
+
         public Player(int startPosX, int startPosY) : base(startPosX, startPosY) 
         {
             health = new Health();
-            input = new PlayerInput(transform);
+
+            weapon = new Weapon(transform);
+            
+            input = new PlayerInput(transform, weapon);
+
+
 
             Health.OnDie += Death;
         }
+
 
         public override void Render()
         {
@@ -30,6 +38,7 @@
         {
             if (isActive)
             {
+                weapon.Update();
                 input.Update();
                 CollisionCheck();
             }
@@ -56,13 +65,9 @@
                     {
                         //Engine.Debug("Colision con algun enemigo");
                     }
-                    else if (g is Bullet)
-                    {
-                        health.GetDamaged();
-                        GameManager.Instace.LevelController.GameObjects.Remove(g);
-                    }
                     else if (g is IPickup)
                     {
+                       
                         IPickup pickup = (IPickup)g;
                         pickup.DoEffect();
                         //Engine.Debug("Colision con pick up");
@@ -70,5 +75,8 @@
                 }
             }
         }
+
+
+
     }
 }

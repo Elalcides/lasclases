@@ -1,13 +1,16 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+namespace ProyectoSDL2.Engine.Scripts
 {
     public class PlayerInput
     {
         private Transform transform;
         private int speed = 5;
+        private Weapon weapon;
 
-        public PlayerInput(Transform playerTransform)
+        public PlayerInput(Transform playerTransform, Weapon weapon)
         {
             transform = playerTransform;
+            this.weapon = weapon;
         }
 
         public void Update()
@@ -28,11 +31,17 @@
             {
                 transform.Translate(0, 1 * speed);
             }
+            if(Engine.KeyPress(Engine.KEY_ESP))
+            {
+                weapon.Shoot();
+            }
+
         }
 
         public void UpdateSpeed(int newSpeed)
         {
             speed = newSpeed;
         }
+
     }
 }

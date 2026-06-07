@@ -1,4 +1,5 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+namespace ProyectoSDL2.Engine.Scripts
 {
     public enum GAME_STATE
     {
@@ -33,6 +34,7 @@
             levelController.Start();
         }
 
+
         public void SetScore(int newScore)
         {
             score = newScore;
@@ -55,6 +57,7 @@
                     Engine.Draw("assets/PantallaDerrota.png", 0, 0);//renderizar inicio
                     Engine.Show();
                     break;
+
             }
         }
         public void Update()
@@ -80,5 +83,6 @@
         {
             GAME_STATE = newState;
         }
+
     }
 }

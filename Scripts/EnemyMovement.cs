@@ -1,4 +1,6 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+
+namespace ProyectoSDL2.Engine.Scripts
 {
     public class EnemyMovement
     {

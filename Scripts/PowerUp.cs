@@ -1,7 +1,10 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+
+namespace ProyectoSDL2.Engine.Scripts
 {
     public class PowerUp : GameObject, IPickup
     {
+
         public PowerUp(int x, int y) : base(x, y)
         {
         }

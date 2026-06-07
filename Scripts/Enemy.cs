@@ -1,10 +1,10 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+namespace ProyectoSDL2.Engine.Scripts
 {
     public class Enemy : GameObject
     {
         int initialX, initialY;
         EnemyMovement enemyMovement;
-        Weapon weapon;
         Animation animation;
 
         List<Image> images = new List<Image>();
@@ -15,7 +15,6 @@
             initialY = startPosY;
 
             enemyMovement = new EnemyMovement(transform);
-            weapon = new Weapon(transform);
 
             images.Add(Engine.LoadImage("assets/enemy/0.png"));
             images.Add(Engine.LoadImage("assets/enemy/1.png"));
@@ -31,7 +30,6 @@
         {
             animation.Update();
             enemyMovement.MoveEnemy();
-            weapon.Shoot();
         }
 
         public override void Render()
@@ -44,5 +42,8 @@
             //moveme
             transform.SetPosition(initialX, initialY); //si si
         }
+
+
+
     }
 }

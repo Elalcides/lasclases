@@ -1,4 +1,6 @@
 ﻿using SDL2;
+using System.Diagnostics;
+
 namespace ProyectoSDL2.Engine.Scripts
 {
     class Program
@@ -20,6 +22,8 @@ namespace ProyectoSDL2.Engine.Scripts
 
             float lastFrameTime = 0;
 
+            GenericClass<Bullet> genericClass = new GenericClass<Bullet>();
+
             while (bIsGameActive)
             {
                 if (Engine.KeyPress(Engine.KEY_ESC))
@@ -37,5 +41,9 @@ namespace ProyectoSDL2.Engine.Scripts
             }
 
         }
+
+
     }
+
 }
+

@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ProyectoSDL2.Engine.Scripts
 {
-    public interface IPickup
+    public class GenericClass<T>
     {
-        public void DoEffect();
-
+        T value;
     }
 }

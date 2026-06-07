@@ -1,7 +1,14 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProyectoSDL2.Engine.Scripts
 {
     public abstract class GameObject
     {
+
         protected Transform transform;
         public Transform Transform => transform;
 
@@ -13,5 +20,6 @@
         public abstract void Render();
 
         public abstract void Update();
+
     }
 }
