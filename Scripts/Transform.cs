@@ -22,6 +22,10 @@
             posY += moveY;
         }
 
-
+        public void SetPosition(int x, int y)
+        {
+            posX = x;
+            posY = y;
+        }
     }
 }

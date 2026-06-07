@@ -1,62 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\",
+  "WorkspaceRootPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\ipickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 8\\engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|c:\\proyectos\\francisco\\visual studio\\proyecto clase 9\\scripts\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DABE7CE-A186-431F-BB46-DA9D6275E9B3}|ProyectoSDL2.csproj|solutionrelative:scripts\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,178 +69,189 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 232,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 341,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Transform.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Transform.cs",
-              "RelativeDocumentMoniker": "Scripts\\Transform.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Transform.cs",
-              "RelativeToolTip": "Scripts\\Transform.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Weapon.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Scripts\\Weapon.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Weapon.cs",
               "RelativeToolTip": "Scripts\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.66Z"
+              "WhenOpened": "2026-05-15T13:22:43.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LevelController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\LevelController.cs",
-              "RelativeDocumentMoniker": "Scripts\\LevelController.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\LevelController.cs",
-              "RelativeToolTip": "Scripts\\LevelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Program.cs",
+              "RelativeDocumentMoniker": "Scripts\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Program.cs",
+              "RelativeToolTip": "Scripts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.63Z",
+              "WhenOpened": "2026-05-15T13:05:15.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Scripts\\GameManager.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwBkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Scripts\\Player.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Player.cs",
-              "RelativeToolTip": "Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Program.cs",
-              "RelativeDocumentMoniker": "Scripts\\Program.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Program.cs",
-              "RelativeToolTip": "Scripts\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "PowerUp.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\PowerUp.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\PowerUp.cs",
               "RelativeDocumentMoniker": "Scripts\\PowerUp.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\PowerUp.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\PowerUp.cs",
               "RelativeToolTip": "Scripts\\PowerUp.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.645Z"
+              "WhenOpened": "2026-05-15T13:21:08.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Scripts\\PlayerInput.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\PlayerInput.cs",
+              "RelativeToolTip": "Scripts\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:20:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:11:15.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Transform.cs",
+              "RelativeDocumentMoniker": "Scripts\\Transform.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Transform.cs",
+              "RelativeToolTip": "Scripts\\Transform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:22:18.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPickup.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\IPickup.cs",
+              "RelativeDocumentMoniker": "Scripts\\IPickup.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\IPickup.cs",
+              "RelativeToolTip": "Scripts\\IPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:17:40.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Scripts\\Health.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Health.cs",
+              "RelativeToolTip": "Scripts\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:17:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Player.cs",
+              "RelativeToolTip": "Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:09:56.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\GameObject.cs",
-              "RelativeDocumentMoniker": "GameObject.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\GameObject.cs",
-              "RelativeToolTip": "GameObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\GameObject.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameObject.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\GameObject.cs",
+              "RelativeToolTip": "Scripts\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T16:07:55.842Z"
+              "WhenOpened": "2026-05-15T13:05:44.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerInput.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\PlayerInput.cs",
-              "RelativeDocumentMoniker": "Scripts\\PlayerInput.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\PlayerInput.cs",
-              "RelativeToolTip": "Scripts\\PlayerInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\LevelController.cs",
+              "RelativeDocumentMoniker": "Scripts\\LevelController.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\LevelController.cs",
+              "RelativeToolTip": "Scripts\\LevelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Health.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Health.cs",
-              "RelativeDocumentMoniker": "Scripts\\Health.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Health.cs",
-              "RelativeToolTip": "Scripts\\Health.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\EnemyMovement.cs",
-              "RelativeDocumentMoniker": "Scripts\\EnemyMovement.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\EnemyMovement.cs",
-              "RelativeToolTip": "Scripts\\EnemyMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Scripts\\Enemy.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.63Z"
+              "WhenOpened": "2026-05-15T13:05:33.321Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Scripts\\Bullet.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.658Z"
+              "WhenOpened": "2026-05-15T13:16:08.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Engine\\Engine.cs",
-              "RelativeDocumentMoniker": "Engine\\Engine.cs",
-              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 8\\Engine\\Engine.cs",
-              "RelativeToolTip": "Engine\\Engine.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAgwGIAAAAbAAAAAAAAAA==",
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:25:25.661Z"
+              "WhenOpened": "2026-05-15T13:14:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Scripts\\GameManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:05:26.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Animation.cs",
+              "RelativeDocumentMoniker": "Scripts\\Animation.cs",
+              "ToolTip": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto Clase 9\\Scripts\\Animation.cs",
+              "RelativeToolTip": "Scripts\\Animation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:13:11.228Z"
             }
           ]
         }

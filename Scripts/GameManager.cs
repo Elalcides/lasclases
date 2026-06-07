@@ -1,5 +1,4 @@
-﻿
-namespace ProyectoSDL2.Engine.Scripts
+﻿namespace ProyectoSDL2.Engine.Scripts
 {
     public enum GAME_STATE
     {
@@ -34,28 +33,9 @@ namespace ProyectoSDL2.Engine.Scripts
             levelController.Start();
         }
 
-
         public void SetScore(int newScore)
         {
             score = newScore;
-        }
-        public void Update()
-        {
-            switch (GAME_STATE)
-            {
-                case GAME_STATE.START:
-                    if (Engine.KeyPress(Engine.KEY_X))
-                    {
-                        GAME_STATE = GAME_STATE.GAME;
-                    }
-                    break;
-                case GAME_STATE.GAME:
-                    levelController.Update();
-                    break;
-                case GAME_STATE.END: //renderizar game over
-                    break;
-
-            }
         }
 
         public void Render()
@@ -75,15 +55,30 @@ namespace ProyectoSDL2.Engine.Scripts
                     Engine.Draw("assets/PantallaDerrota.png", 0, 0);//renderizar inicio
                     Engine.Show();
                     break;
+            }
+        }
+        public void Update()
+        {
+            switch (GAME_STATE)
+            {
+                case GAME_STATE.START:
+                    if(Engine.KeyPress(Engine.KEY_X))
+                    {
+                        GAME_STATE = GAME_STATE.GAME;
+                    }
+                    break;
+                case GAME_STATE.GAME:
+                    levelController.Update();
+                    break;
+                case GAME_STATE.END: //renderizar game over
+                    break;
 
             }
         }
-        
 
         public void ChangeGameState(GAME_STATE newState)
         {
             GAME_STATE = newState;
         }
-
     }
 }

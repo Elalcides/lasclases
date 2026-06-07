@@ -1,5 +1,4 @@
-﻿
-namespace ProyectoSDL2.Engine.Scripts
+﻿namespace ProyectoSDL2.Engine.Scripts
 {
     internal class Animation
     {
@@ -29,9 +28,7 @@ namespace ProyectoSDL2.Engine.Scripts
                 {
                     currentFrameIndex = 0;
                 }
-
             }
         }
-
     }
 }

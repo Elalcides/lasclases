@@ -1,18 +1,19 @@
-﻿
-namespace ProyectoSDL2.Engine.Scripts
+﻿namespace ProyectoSDL2.Engine.Scripts
 {
-    public class Enemy
+    public class Enemy : GameObject
     {
-        Transform transform;
+        int initialX, initialY;
         EnemyMovement enemyMovement;
         Weapon weapon;
         Animation animation;
 
         List<Image> images = new List<Image>();
 
-        public Enemy(int startPosX, int startPosY)
+        public Enemy(int startPosX, int startPosY) : base(startPosX, startPosY)
         {
-            transform = new Transform(startPosX, startPosY);
+            initialX = startPosX;
+            initialY = startPosY;
+
             enemyMovement = new EnemyMovement(transform);
             weapon = new Weapon(transform);
 
@@ -22,21 +23,26 @@ namespace ProyectoSDL2.Engine.Scripts
             images.Add(Engine.LoadImage("assets/enemy/3.png"));
 
             animation = new Animation(images, 0.1f);
+
+            Health.OnDie += ResetPosition;
         }
 
-        public void Update()
+        public override void Update()
         {
             animation.Update();
             enemyMovement.MoveEnemy();
             weapon.Shoot();
         }
 
-        public void Render()
+        public override void Render()
         {
             Engine.Draw(animation.currentFrame, transform.PosX, transform.PosY);
         }
 
-
-
+        void ResetPosition()
+        {
+            //moveme
+            transform.SetPosition(initialX, initialY); //si si
+        }
     }
 }

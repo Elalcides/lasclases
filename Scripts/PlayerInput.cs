@@ -28,13 +28,11 @@
             {
                 transform.Translate(0, 1 * speed);
             }
-
         }
 
         public void UpdateSpeed(int newSpeed)
         {
             speed = newSpeed;
         }
-
     }
 }

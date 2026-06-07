@@ -2,8 +2,8 @@
 {
     public class Health
     {
+        public static event Action OnDie;
         int health = 2;
-
 
         public void GetDamaged()
         {
@@ -12,7 +12,8 @@
 
             if(health <= 0)
             {
-                GameManager.Instace.ChangeGameState(GAME_STATE.END);
+                OnDie?.Invoke();
+               // GameManager.Instace.ChangeGameState(GAME_STATE.END);
             }
         }
     }
