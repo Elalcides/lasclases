@@ -1,15 +1,18 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+namespace ProyectoSDL2.Engine.Scripts
 {
     public class PlayerInput
     {
-        private Transform transform;
-        private int speed = 5;
-        public PlayerInput(Transform playerTransform, int speed)
+        Transform transform;
+        int speed;
+
+        public PlayerInput(Transform playerTransform, int playerSpeed)
         {
-            this.transform = playerTransform;
-            this.speed = speed;
-            //Engine.OnKeyDown += HandleKeyDown;
+            transform = playerTransform;
+            speed = playerSpeed;
         }
+
+
 
         public void Update()
         {
@@ -37,24 +40,6 @@
             {
                 Program.AddBullet(transform.PosX, transform.PosY);
             }
-
-
-            //if (Engine.IsKeyDown("W"))
-            //{
-            //    //mover hacia arriba
-            //}
-            //if (Engine.IsKeyDown("S"))
-            //{
-            //    //mover hacia abajo
-            //}
-            //if (Engine.IsKeyDown("A"))
-            //{
-            //    //mover hacia izquierda
-            //}
-            //if (Engine.IsKeyDown("D"))
-            //{
-            //    //mover hacia derecha
-            //}
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net9.0": {
       "Sayers.SDL2.Core/1.0.11": {
@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 4\\ProyectoSDL2.csproj",
+      "projectUniqueName": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 5\\ProyectoSDL2.csproj",
       "projectName": "ProyectoSDL2",
-      "projectPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 4\\ProyectoSDL2.csproj",
+      "projectPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 5\\ProyectoSDL2.csproj",
       "packagesPath": "C:\\Users\\Alcides\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 4\\obj\\",
+      "outputPath": "C:\\Proyectos\\Francisco\\Visual Studio\\Proyecto clase 5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,7 +97,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -125,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

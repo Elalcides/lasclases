@@ -2,18 +2,15 @@
 {
     public class Player
     {
-        Transform transform;
-        PlayerInput input;
-        Animation playerAnim;
+        private Transform transform;
+        private PlayerInput input;
+        private Animation playerAnim;
         private int speed = 5;
         private float health;
 
         private List<Image> animationImages = new List<Image>();
+
         public float Health => health;
-
-
-        private Image playerImg;
-        //mas
 
         public void SetDamage(int damage)
         {
@@ -24,22 +21,21 @@
             {
                 // murio
             }
-        }
+        } 
 
         public Player(int x, int y)
         {
             transform = new Transform(x, y);
-            input = new PlayerInput(transform, speed);
-            
+            input = new PlayerInput(transform,speed);
+
             animationImages.Add(Engine.LoadImage("assets/Ship/Idle/0.png"));
             animationImages.Add(Engine.LoadImage("assets/Ship/Idle/1.png"));
             animationImages.Add(Engine.LoadImage("assets/Ship/Idle/2.png"));
             animationImages.Add(Engine.LoadImage("assets/Ship/Idle/3.png"));
 
 
-            playerAnim = new Animation(animationImages, 0.1f);
-
-            playerImg = Engine.LoadImage("assets/ship.png");
+            playerAnim = new Animation(animationImages,0.1f);
+            
         }
 
         public void Update()

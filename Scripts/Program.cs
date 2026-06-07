@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace ProyectoSDL2.Engine.Scripts
+﻿namespace ProyectoSDL2.Engine.Scripts
 {
     class Program
     {
@@ -9,7 +7,7 @@ namespace ProyectoSDL2.Engine.Scripts
         static List<Enemy> enemyList = new List<Enemy>();
         static List<Bullet> bulletList = new List<Bullet>();
 
-        public static float deltaTime;
+        static float deltaTime;
 
         public static float DeltaTime => deltaTime;
 
@@ -22,13 +20,11 @@ namespace ProyectoSDL2.Engine.Scripts
             float lastFrameTime = 0;
             float timerLog = 0;
 
-
             player = new Player(200, 200);
 
             enemyList.Add(new Enemy(200, 200));
             enemyList.Add(new Enemy(200, 400));
             enemyList.Add(new Enemy(200, 600));
-
 
             while (true)
             {
@@ -40,39 +36,26 @@ namespace ProyectoSDL2.Engine.Scripts
                 Update();
                 Render();
             }
-
         }
 
         static void Update()
         {
             player.Update();
+            //player.SetDamage(10);
 
-            player.SetDamage(10);
-
-            foreach (Enemy enemy in enemyList)
-            {
-                enemy.Update();
-            }
-            foreach (Bullet bullet in bulletList)
-            {
-                bullet.Update();
-            }
+            foreach (Enemy enemy in enemyList) enemy.Update();
+            foreach (Bullet bullet in bulletList) bullet.Update();
         }
 
         static void Render()
         {
             Engine.Clear();
+
             player.Render();
 
-            foreach (Enemy enemy in enemyList)
-            {
-                enemy.Render();
-            }
-            foreach (Bullet bullet in bulletList)
-            {
-                bullet.Render();
-            }
-
+            foreach (Enemy enemy in enemyList) enemy.Render();
+            foreach (Bullet bullet in bulletList) bullet.Render();
+            
             Engine.Show();
         }
 

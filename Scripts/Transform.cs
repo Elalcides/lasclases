@@ -8,7 +8,7 @@ namespace ProyectoSDL2.Engine.Scripts
 {
     public class Transform
     {
-         int posX, posY; 
+        int posX, posY; 
 
         public int PosX => posX;
         public int PosY => posY;

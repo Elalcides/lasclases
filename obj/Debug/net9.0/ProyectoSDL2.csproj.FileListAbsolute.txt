@@ -176,44 +176,93 @@ C:\Users\p764\Downloads\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.pdb
 C:\Users\p764\Downloads\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.genruntimeconfig.cache
 C:\Users\p764\Downloads\Proyecto clase 3\obj\Debug\net9.0\ref\ProyectoSDL2.dll
 C:\Users\p764\Downloads\Proyecto clase 3\bin\Debug\net9.0\assets\bullet.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libFLAC-8.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libjpeg-9.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libmodplug-1.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libmpg123-0.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libogg-0.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libopus-0.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libopusfile-0.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libpng16-16.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libtiff-5.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libvorbis-0.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\libwebp-7.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\SDL2.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\SDL2_image.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\SDL2_mixer.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\SDL2_ttf.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\zlib1.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\ProyectoSDL2.exe
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\bullet.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\enemy.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\fondo.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\ship.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\ProyectoSDL2.deps.json
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\ProyectoSDL2.runtimeconfig.json
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\ProyectoSDL2.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\ProyectoSDL2.pdb
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\Sayers.SDL2.Core.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.csproj.AssemblyReference.cache
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.AssemblyInfoInputs.cache
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.AssemblyInfo.cs
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.csproj.CoreCompileInputs.cache
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\Proyecto.EB9C087C.Up2Date
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\refint\ProyectoSDL2.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.pdb
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ProyectoSDL2.genruntimeconfig.cache
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\obj\Debug\net9.0\ref\ProyectoSDL2.dll
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\Ship\Idle\0.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\Ship\Idle\1.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\Ship\Idle\2.png
-C:\Proyectos\Francisco\Visual Studio\Proyecto clase 4\bin\Debug\net9.0\assets\Ship\Idle\3.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libFLAC-8.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libjpeg-9.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libmodplug-1.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libmpg123-0.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libogg-0.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libopus-0.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libopusfile-0.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libpng16-16.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libtiff-5.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libvorbis-0.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\libwebp-7.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\SDL2.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\SDL2_image.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\SDL2_mixer.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\SDL2_ttf.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\zlib1.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\ProyectoSDL2.exe
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\bullet.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\enemy.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\fondo.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\ship.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\ProyectoSDL2.deps.json
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\ProyectoSDL2.runtimeconfig.json
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\ProyectoSDL2.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\ProyectoSDL2.pdb
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\Sayers.SDL2.Core.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.csproj.AssemblyReference.cache
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.AssemblyInfoInputs.cache
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.AssemblyInfo.cs
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.csproj.CoreCompileInputs.cache
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\Proyecto.EB9C087C.Up2Date
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\refint\ProyectoSDL2.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.pdb
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ProyectoSDL2.genruntimeconfig.cache
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\obj\Debug\net9.0\ref\ProyectoSDL2.dll
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\Ship\Idle\0.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\Ship\Idle\1.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\Ship\Idle\2.png
+C:\Users\p764\Downloads\Proyecto clase 4\Proyecto clase 3\bin\Debug\net9.0\assets\Ship\Idle\3.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libFLAC-8.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libjpeg-9.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libmodplug-1.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libmpg123-0.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libogg-0.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libopus-0.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libopusfile-0.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libpng16-16.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libtiff-5.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libvorbis-0.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\libwebp-7.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\SDL2.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\SDL2_image.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\SDL2_mixer.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\SDL2_ttf.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\zlib1.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\ProyectoSDL2.exe
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\bullet.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\enemy.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\fondo.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\ship.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Ship\Idle\0.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Ship\Idle\1.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Ship\Idle\2.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Ship\Idle\3.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\ProyectoSDL2.deps.json
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\ProyectoSDL2.runtimeconfig.json
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\ProyectoSDL2.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\ProyectoSDL2.pdb
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\Sayers.SDL2.Core.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.csproj.AssemblyReference.cache
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.AssemblyInfoInputs.cache
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.AssemblyInfo.cs
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.csproj.CoreCompileInputs.cache
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\Proyecto.EB9C087C.Up2Date
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\refint\ProyectoSDL2.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.pdb
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ProyectoSDL2.genruntimeconfig.cache
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\obj\Debug\net9.0\ref\ProyectoSDL2.dll
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Bullet\Idle\0.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Bullet\Idle\1.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Bullet\Idle\2.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Bullet\Idle\3.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Enemy\Idle\0.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Enemy\Idle\1.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Enemy\Idle\2.png
+C:\Proyectos\Francisco\Visual Studio\Proyecto clase 5\bin\Debug\net9.0\assets\Enemy\Idle\3.png
