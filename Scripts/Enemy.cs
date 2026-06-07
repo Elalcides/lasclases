@@ -4,23 +4,20 @@ namespace ProyectoSDL2.Engine.Scripts
     public class Enemy
     {
         Transform transform;
-        private Animation enemyAnim;
         int speed = 3;
         Image playerImg;
-        //mas
-        private List<Image> animationImages = new List<Image>();
+
+        int health = 5;
+
+        Font arialFont;
+
+        public Transform Transform => transform;
 
         public Enemy(int x, int y)
         {
             transform = new Transform(x, y);
-
-            animationImages.Add(Engine.LoadImage("assets/Enemy/Idle/0.png"));
-            animationImages.Add(Engine.LoadImage("assets/Enemy/Idle/1.png"));
-            animationImages.Add(Engine.LoadImage("assets/Enemy/Idle/2.png"));
-            animationImages.Add(Engine.LoadImage("assets/Enemy/Idle/3.png"));
-
-            enemyAnim = new Animation(animationImages, 0.1f);
-            //playerImg = Engine.LoadImage("assets/enemy.png");
+            playerImg = Engine.LoadImage("assets/enemy.png");
+            arialFont = Engine.LoadFont("Fonts/arial.ttf", 30);
         }
 
         public void Update()
@@ -31,13 +28,24 @@ namespace ProyectoSDL2.Engine.Scripts
             {
                 speed *= -1;
             }
-            
-            enemyAnim.Update();
+
+        }
+
+        public void GetDamaged(int dmg)
+        {
+            health -= dmg;
+            Engine.Debug($"Queda {health} de vida");
+            if (health <= 0)
+            {
+                //explosion
+                Program.EnemyList.Remove(this);
+            }
         }
 
         public void Render()
         {
-            Engine.Draw(enemyAnim.currentFrame, transform.PosX, transform.PosY);
+            Engine.DrawText(health.ToString(), transform.PosX + 13, transform.PosY - 30, 0, 0, 0, arialFont);
+            Engine.Draw(playerImg, transform.PosX, transform.PosY);
         }
 
     }

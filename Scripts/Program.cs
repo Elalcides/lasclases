@@ -7,25 +7,35 @@
         static List<Enemy> enemyList = new List<Enemy>();
         static List<Bullet> bulletList = new List<Bullet>();
 
-        static float deltaTime;
+        public static List<Enemy> EnemyList => enemyList;
+        public static List<Bullet> BulletList => bulletList;
 
-        public static float DeltaTime => deltaTime;
+
+        static float deltaTime;
+        static float timerLog = 0;
+
+        public static  float DeltaTime => deltaTime;
+        public static float TimerLog => timerLog;
+        //{
+        //   get => timerLog;
+        //    set => timerLog = value;
+        //}
 
         static void Main(string[] args)
         {
             Engine.Initialize();
 
             DateTime startTime = DateTime.Now;
+            
             float currentTime;
             float lastFrameTime = 0;
-            float timerLog = 0;
 
             player = new Player(200, 200);
 
             enemyList.Add(new Enemy(200, 200));
             enemyList.Add(new Enemy(200, 400));
             enemyList.Add(new Enemy(200, 600));
-
+            
             while (true)
             {
                 currentTime = (float)(DateTime.Now - startTime).TotalSeconds; //calculo el tiempo actual
@@ -41,30 +51,45 @@
         static void Update()
         {
             player.Update();
-            //player.SetDamage(10);
 
-            foreach (Enemy enemy in enemyList) enemy.Update();
-            foreach (Bullet bullet in bulletList) bullet.Update();
+            player.SetDamage(10);
+
+            for (int i = 0; i < enemyList.Count; i++)
+            {
+                Enemy enemy = enemyList[i];
+                enemy.Update();
+            }
+            for (int i = 0; i < bulletList.Count; i++)
+            {
+                Bullet bullet = bulletList[i];
+                bullet.Update();
+            }
         }
 
         static void Render()
         {
             Engine.Clear();
-
             player.Render();
 
-            foreach (Enemy enemy in enemyList) enemy.Render();
-            foreach (Bullet bullet in bulletList) bullet.Render();
-            
+            for (int i = 0; i < enemyList.Count; i++)
+            {
+                Enemy enemy = enemyList[i];
+                enemy.Render();
+            }
+            for (int i = 0; i < bulletList.Count; i++)
+            {
+                Bullet bullet = bulletList[i];
+                bullet.Render();
+            }
+
             Engine.Show();
         }
 
         public static void AddBullet(int posX, int posY)
         {
             bulletList.Add(new Bullet(posX, posY));
-        }
+}
 
     }
 
 }
-

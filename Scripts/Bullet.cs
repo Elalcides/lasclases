@@ -3,31 +3,37 @@
     public class Bullet
     {
         Transform transform;
-        private Animation bulletAnim;
-        private List<Image> animationImages = new List<Image>();
+
         //Constructor, se llama cuando se crea
         public Bullet(int startPosX, int startPosY)
         {
-            transform = new Transform(startPosX + 44, startPosY);
-
-            animationImages.Add(Engine.LoadImage("assets/Bullet/Idle/0.png"));
-            animationImages.Add(Engine.LoadImage("assets/Bullet/Idle/1.png"));
-            animationImages.Add(Engine.LoadImage("assets/Bullet/Idle/2.png"));
-            animationImages.Add(Engine.LoadImage("assets/Bullet/Idle/3.png"));
-
-            bulletAnim = new Animation(animationImages, 0.1f);
+            transform = new Transform(startPosX + 46, startPosY);
         }
 
         public void Update()
         {
             transform.Translate(0, -5);
-            bulletAnim.Update();
+
+            for (int i = 0; i < Program.EnemyList.Count; i++)
+            {
+                Enemy currentEnemy = Program.EnemyList[i];
+
+
+                if ((transform.PosX < currentEnemy.Transform.PosX + 60) &&
+                    (transform.PosX + 7 > currentEnemy.Transform.PosX) &&
+                    (transform.PosY < currentEnemy.Transform.PosY + 90) &&
+                    (transform.PosY + 26 > currentEnemy.Transform.PosY))
+                {
+                    currentEnemy.GetDamaged(1);
+                    Program.BulletList.Remove(this);
+                }
+            }
+
         }
 
         public void Render()
         {
-            Engine.Draw(bulletAnim.currentFrame, transform.PosX, transform.PosY);
-            
+            Engine.Draw("assets/bullet.png", transform.PosX, transform.PosY);
         }
     }
 }
