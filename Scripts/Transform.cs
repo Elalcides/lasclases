@@ -2,19 +2,26 @@
 {
     public class Transform
     {
-        int posX, posY;
-        public int PosX => posX;
+        //posiciones
+        int posX,posY;
+
+        public int PosX => posX; 
         public int PosY => posY;
 
-        public Transform(int startPosX, int startPosY)
+        //constructor
+        public Transform(int x, int y)
         {
-            posX = startPosX;
-            posY = startPosY;
+            posX = x;
+            posY = y;
         }
-        public void Translate(int movementX, int movementY)
+
+        //translate
+        public void Translate(int moveX, int moveY)
         {
-            posX += movementX;
-            posY += movementY;
+            posX += moveX;
+            posY += moveY;
         }
+
+
     }
 }

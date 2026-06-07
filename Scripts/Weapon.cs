@@ -3,21 +3,22 @@
     public class Weapon
     {
         float timer = 0;
-        Transform transform;
+        private Transform transform;
 
         public Weapon(Transform enemyTransform)
         {
             transform = enemyTransform;
-
         }
+
         public void Shoot()
         {
+            //sumo el deltatime
             timer += Program.DeltaTime;
 
-            if(timer > 2f)
+            if (timer >= 2)
             {
-                Engine.Debug("Shoot");
-                GameManager.Instance.LevelControl.AddBullet(new Bullet(transform.PosX,transform.PosY));
+                Engine.Debug("Disparo");
+                GameManager.Instace.LevelController.AddBulletToList(new Bullet(transform.PosX,transform.PosY));
                 timer = 0;
             }
         }

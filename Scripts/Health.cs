@@ -2,15 +2,17 @@
 {
     public class Health
     {
-        int health = 200;
-        
-        public void GetDamage()
+        int health = 2;
+
+
+        public void GetDamaged()
         {
             health -= 1;
-            Engine.Debug($"Health: {health}");
-            if (health <= 0)
+            Engine.Debug($"Vida: {health}");
+
+            if(health <= 0)
             {
-                GameManager.Instance.ChangeGameState(GAME_STATE.END);
+                GameManager.Instace.ChangeGameState(GAME_STATE.END);
             }
         }
     }

@@ -1,25 +1,23 @@
-﻿namespace ProyectoSDL2.Engine.Scripts
+﻿
+namespace ProyectoSDL2.Engine.Scripts
 {
     public enum GAME_STATE
     {
         START = 0,
-        GAME =1,
-        END =2
+        GAME = 1,
+        END = 2
     }
 
     public class GameManager
     {
         static GameManager instance;
-        int score;
+        private int score;
         GAME_STATE GAME_STATE = GAME_STATE.START;
-        LevelControl levelControl = new LevelControl();
+        LevelController levelController = new LevelController();
 
-        public LevelControl LevelControl
-        {
-            get { return levelControl; }
-        }
+        public LevelController LevelController { get { return levelController; } }
 
-        public static GameManager Instance
+        static public GameManager Instace
         {
             get
             {
@@ -33,58 +31,59 @@
 
         public void Start()
         {
-            levelControl.Start();
+            levelController.Start();
         }
+
 
         public void SetScore(int newScore)
         {
             score = newScore;
         }
-        public void Render()
-        {
-            switch(GAME_STATE)
-            {
-                case GAME_STATE.START:
-                    Engine.Clear();
-                    Engine.Draw("assets/MainMenu.png", 0, 0);
-                    Engine.Show();
-                    break;
-                // Add more cases for different screens if needed
-                case GAME_STATE.GAME:
-                    levelControl.Render();
-                    break;
-                case GAME_STATE.END:
-                    Engine.Clear();
-                    Engine.Draw("assets/PantallaDerrota.png", 0, 0);
-                    Engine.Show();
-                    break;
-            }
-        }
-
         public void Update()
         {
             switch (GAME_STATE)
             {
                 case GAME_STATE.START:
-                    if(Engine.KeyPress(Engine.KEY_X))
+                    if (Engine.KeyPress(Engine.KEY_X))
                     {
                         GAME_STATE = GAME_STATE.GAME;
                     }
                     break;
-                // Add more cases for different screens if needed
                 case GAME_STATE.GAME:
-                    levelControl.Update();
+                    levelController.Update();
                     break;
-                case GAME_STATE.END:
-                    Engine.Clear();
-                    Engine.Draw("assets/PantallaDerrota.png", 0, 0);
-                    Engine.Show();
+                case GAME_STATE.END: //renderizar game over
                     break;
+
             }
         }
+
+        public void Render()
+        {
+            switch (GAME_STATE)
+            {
+                case GAME_STATE.START:
+                    Engine.Clear();
+                    Engine.Draw("assets/MainMenu.png", 0, 0);//renderizar inicio
+                    Engine.Show();
+                    break;
+                case GAME_STATE.GAME:
+                    levelController.Render();//renderizar juego
+                    break;
+                case GAME_STATE.END: //renderizar game over
+                    Engine.Clear();
+                    Engine.Draw("assets/PantallaDerrota.png", 0, 0);//renderizar inicio
+                    Engine.Show();
+                    break;
+
+            }
+        }
+        
+
         public void ChangeGameState(GAME_STATE newState)
         {
             GAME_STATE = newState;
         }
+
     }
 }
